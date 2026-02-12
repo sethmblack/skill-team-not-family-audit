@@ -1,11 +1,9 @@
 ---
 name: team-not-family-audit
-description: Analyze organizational language, policies, and culture for "family thinking"
-  that undermines accountability and performance. Identify where family metaphors
-  create problems and recommend team-orien...
+description: Analyze organizational language, policies, and culture for "family thinking" that undermines accountability and performance. Identify where family metaphors create problems and recommend team-orien...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - team-not-family-audit
