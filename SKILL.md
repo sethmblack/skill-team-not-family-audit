@@ -3,7 +3,7 @@ name: team-not-family-audit
 description: Analyze organizational language, policies, and culture for "family thinking" that undermines accountability and performance. Identify where family metaphors create problems and recommend team-orien...
 license: MIT
 metadata:
-  version: 1.0.5140
+  version: 1.0.5141
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
